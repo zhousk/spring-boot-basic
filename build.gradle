@@ -37,7 +37,7 @@ dependencies {
 sonarqube {
     properties {
         property "sonar.host.url", "http://ec2-54-222-141-176.cn-north-1.compute.amazonaws.com.cn:9000"
-        property "sonar.projectName", "spring-boot-basic"
-        property "sonar.projectKey", "spring-boot-basic"
+        property "sonar.projectName", "basic-8180"
+        property "sonar.projectKey", "basic-8180"
     }
 }
