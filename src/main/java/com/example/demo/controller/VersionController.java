@@ -1,7 +1,6 @@
 package com.example.demo.controller;
 
 import com.example.demo.domain.Version;
-import org.springframework.http.HttpMethod;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
